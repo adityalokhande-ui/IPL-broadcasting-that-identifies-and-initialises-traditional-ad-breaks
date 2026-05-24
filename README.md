@@ -1,2 +1,20 @@
-# -IPL-broadcasting-that-identifies-and-initialises-traditional-ad-breaks-
-"Developing an AI-powered dynamic content integration system for live IPL broadcasts that identifies traditional ad breaks and seamlessly overlays contextually relevant product placements directly into scene backgrounds or objects, creating a continuous and non-disruptive viewing experience for the audience."
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/0618a984-ebca-45a2-9e2f-66ee2d29dc21
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

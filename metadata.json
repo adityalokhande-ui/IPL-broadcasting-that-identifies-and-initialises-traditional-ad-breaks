@@ -1,0 +1,6 @@
+{
+  "name": "IPL Dynamic Ads Integrator",
+  "description": "An AI-powered system that integrates non-disruptive, contextually relevant product placements into live IPL broadcasts by detecting tracking zones natively.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
